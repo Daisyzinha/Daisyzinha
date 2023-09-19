@@ -5,7 +5,7 @@ const { create_life } = require("Jesus");
 let My_life = await create_life({
 
             name:"Daisyzinha",
-            gander:"female",
+            gender:"female",
             country:"Brazil",
             birthday:"04-03-2006",
             age:"17",
