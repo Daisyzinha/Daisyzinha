@@ -2,7 +2,7 @@
 
 const { create_life } = require("Jesus");
 
-let = My_life = await create_life({
+let My_life = await create_life({
 
             name:"Daisyzinha",
             gander:"female",
