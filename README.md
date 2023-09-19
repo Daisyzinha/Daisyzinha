@@ -1,16 +1,19 @@
-### Hi there 👋
+```js
 
-<!--
-**Daisyzinha/Daisyzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const { create_life } = require("Jesus");
 
-Here are some ideas to get you started:
+let = My_life = await create_life({
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            name:"Daisyzinha",
+            gander:"female",
+            country:"Brazil",
+            birthday:"04-03-2006",
+            age:"17",
+            favorites_hobbies: [
+               "To program",
+                "To live",   
+                "To live with friends, family and web-friends"                  
+                          ],
+                })
+
+console.log(`Jesus - welcome to the world, ${My_life.name}!`)```
