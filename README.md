@@ -23,4 +23,4 @@ console.log(`Jesus - welcome to the world, ${My_life.name}!)
 
 ✨Howdy!! my name is Daisyzinha! I'm 17 years old and i'm a pround **Javascript** dev!
 
-[![Daisyzinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daisyzinha&count_private=false)]
+![Daisyzinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daisyzinha&count_private=false)
