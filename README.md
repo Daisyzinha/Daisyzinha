@@ -19,7 +19,7 @@ let My_life = await create_life({
 console.log(`Jesus - welcome to the world, ${My_life.name}!)
 ```
 
-✨Howdy!! my name is Daisyzinha! I'm 17 years old and i'm a pround **Javascript** dev!
+✨Howdy!! my name is Daisyzinha! I'm 17 years old and i'm a pround **Javascript** dev! <code> <image height="10" src="https://hosting.renderforestsites.com/21893403/1065547/media/83d87ba52ccb112ce4919b083a746444.png"> <code>
 
 
 ### [My server! 🍃](https://discord.gg/QDFSCPSdP8)
