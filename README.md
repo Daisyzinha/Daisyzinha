@@ -21,7 +21,7 @@ console.log(`Jesus - welcome to the world, ${My_life.name}!)
 
 ✨Howdy!! my name is Daisyzinha! I'm 17 years old and i'm a pround **Javascript** dev! 
 
-<image height="30" src="https://hosting.renderforestsites.com/21893403/1065547/media/83d87ba52ccb112ce4919b083a746444.png"> Im criator of Auroricha bot!
+<image height="25" src="https://hosting.renderforestsites.com/21893403/1065547/media/83d87ba52ccb112ce4919b083a746444.png"> | I'm criator of **Auroricha** bot!
 
 
 ### [My server! 🍃](https://discord.gg/QDFSCPSdP8)
@@ -32,7 +32,4 @@ console.log(`Jesus - welcome to the world, ${My_life.name}!)
 ![Daisyzinha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisyzinha&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
-
 ![Daisyzinha's Stats](https://github-readme-stats.vercel.app/api?username=Daisyzinha&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-
-
