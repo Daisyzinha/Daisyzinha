@@ -16,7 +16,7 @@ let My_life = await create_life({
                           ],
                 })
 
-console.log(`Jesus - welcome to the world, ${My_life.name}!)
+console.log(`Jesus - welcome to the world, ${My_life.name}!`)
 ```
 
 ✨Howdy!! my name is Daisyzinha! I'm 17 years old and i'm a pround **Javascript** dev! 
@@ -29,7 +29,7 @@ console.log(`Jesus - welcome to the world, ${My_life.name}!)
 
 
 ### Status! ✨
-![Daisyzinha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy.js&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![Daisyzinha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princess-of-the-backrooms&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
-![Daisyzinha's Stats](https://github-readme-stats.vercel.app/api?username=Daisy.js&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+![Daisyzinha's Stats](https://github-readme-stats.vercel.app/api?username=princess-of-the-backrooms&theme=dracula&show_icons=true&hide_border=false&count_private=false)
