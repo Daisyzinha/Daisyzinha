@@ -29,7 +29,7 @@ console.log(`Jesus - welcome to the world, ${My_life.name}!)
 
 
 ### Status! ✨
-![Daisyzinha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisyzinha&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![Daisyzinha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy.js&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
-![Daisyzinha's Stats](https://github-readme-stats.vercel.app/api?username=Daisyzinha&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+![Daisyzinha's Stats](https://github-readme-stats.vercel.app/api?username=Daisy.js&theme=dracula&show_icons=true&hide_border=false&count_private=false)
